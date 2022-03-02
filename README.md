@@ -74,11 +74,16 @@ https://asciiart.website/-->
 </h4> 
 ### 📊 Github Stats
 
+
+<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=warriorBunny013&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=warriorBunny013&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
 <a href='https://github.com/warriorBunny013/github-stats-transparent'>
   
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorBunny013&layout=compact&theme=merko">
 <!--![Stats Overview](https://raw.githubusercontent.com/warriorBunny013/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/warriorBunny013/github-stats-transparent/output/generated/languages.svg)-->
-
 <!--ACTIVITYGRAPH
 WEBSITE:
 https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
