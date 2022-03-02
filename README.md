@@ -95,14 +95,11 @@ https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
 ![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=warriorBunny013&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)
 </a>
 
-<br>
-
-<!--SNAKE
-WEBSITE:
-https://github.com/Platane/snk-->
-<!--<p align="center">
-<img src="https://raw.githubusercontent.com/warriorBunny013/warriorBunny013/output/github-contribution-grid-snake.svg">-->
+<br/>
+  
+ ![Snake animation](https://github.com/warriorBunny013/warriorBunny013/blob/output/github-contribution-grid-snake.svg)
  <!--LINE-->
+<br/>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  <!--JOYEMOJI-->
