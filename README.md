@@ -34,10 +34,13 @@ I'm learner and I love exploring new tech stack 💻 and leveraging them to buil
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<!-- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="left" alt="figma" height='42px'/> </a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://i.postimg.cc/7YCMGvzw/cplusplus.png" alt="cpluscplus" align="left"  height='42px'/> </a>
+<a href="https://en.cppreference.com/w/c/language" target="_blank"> <img src="https://i.postimg.cc/h48bV8y3/5a36954d40bea2-0735336615135266052652.png" alt="c" align="left" height='42px'/> </a>
+
 
 <br>
 
@@ -72,7 +75,8 @@ https://asciiart.website/-->
 ```
 
 </h4> 
-### 📊 Github Stats
+
+## 📊 Github Stats
 
 
 <br/>
@@ -88,7 +92,7 @@ https://asciiart.website/-->
 WEBSITE:
 https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
 
-<!--![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=warriorBunny013&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)-->
+![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=warriorBunny013&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)
 </a>
 
 <br>
