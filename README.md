@@ -23,7 +23,7 @@ I'm learner and I love exploring new tech stack 💻 and leveraging them to buil
 - 🔭 &nbsp; I'm currently in IIITDMJ 1st year undergrad **😁**;
 - 🤝 &nbsp; I’m currently looking to collaborate on open source programs;
 - 🌱 &nbsp; I’m currently learning Fontend web development;
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/uditi-das-20573b200/)
 - 🎨 &nbsp; painting and sketching are my stress relief drug activities lol. Checkout my [Instagram](https://www.instagram.com/artme_empire/) profile.
 
@@ -81,8 +81,9 @@ https://asciiart.website/-->
 
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=warriorBunny013&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=warriorBunny013&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
-<a href='https://github.com/warriorBunny013/github-stats-transparent'>
+<img src="https://github-readme-stats.vercel.app/api?username=warriorBunny013&show_icons=true&theme=merko">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=warriorBunny013&theme=merko&date_format=M%20j%5B%2C%20Y%5D" > -->
+<!-- <a href='https://github.com/warriorBunny013/github-stats-transparent'> -->
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorBunny013&layout=compact&theme=merko">
